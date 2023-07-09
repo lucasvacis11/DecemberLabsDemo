@@ -15,7 +15,7 @@ To run the tests, you can use the following command:
 ```bash
 npx cypress open
 ```
-This will open the Cypress UI, where you can select specific tests to run, or you can run all tests at once.
+This will open the Cypress UI, where you can select specific, browser and tests to run, or you can run all tests at once.
 
 or If you want to run the tests in headless mode (without a UI), you can use the following command:
 ```bash

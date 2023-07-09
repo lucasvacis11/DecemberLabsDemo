@@ -5,3 +5,6 @@ node_modules/
 
 # Cypress report directory
 cypress/reports/html/
+
+# Cypress videos directory
+cypress/videos/
