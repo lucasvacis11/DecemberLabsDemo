@@ -1,4 +1,7 @@
 # .gitignore
 
+# Node modules directory
+node_modules/
+
 # Cypress report directory
 cypress/reports/html/
