@@ -1,0 +1,4 @@
+# .gitignore
+
+# Cypress report directory
+cypress/reports/html/
